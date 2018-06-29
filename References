@@ -1,0 +1,33 @@
+[1]  Github: tingfengainiaini/sparsecodingsuperresolution, 2014.
+[2]  Cancer imaging archive: Prostate-diagnosis, 2016.
+[3]  Cancer  imaging  archive: Spie-aapm-nci prostatex challenges, 2017.
+[4]  Github: kweisamx/tensorflow-srcnn, 2017.
+[5]  Github: tensorlayer/srgan, 2018.
+[6]  H.  Chang,  D.-Y.  Yeung, and Y. Xiong. Super-resolution through neighbor embedding. In Proceedings of the 2004
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004., volume 1, pages I–I, June 2004.
+[7]  C. Dong, C. Change Loy, K. He, and X. Tang. Image Super-Resolution Using Deep Convolutional Networks. ArXiv e-prints, Dec. 2015.
+[8]  W. Dong, L. Zhang, G. Shi, and X. Wu. Image deblurring and super-resolution by adaptive sparse domain selection and adaptive 
+regularization. IEEE Transactions on Image Processing, 20(7):1838–1857, July 2011.
+[9]  W. T. Freeman, E. C. Pasztor, and O. T. Carmichael. Learning low-level vision. International Journal of Computer Vision, 40(1):25–47, 
+Oct 2000.
+[10]  S.  Gu,  N.  Sang,  and  F.  Ma. Fast  image  super  resolution  via  local  regression. In Proceedings of the 21st International
+Conference on Pattern Recognition (ICPR2012), pages 3128–3131, Nov 2012.
+[11]  K. He, X. Zhang, S. Ren, and J. Sun. Delving deep into rectifiers: Surpassing human-level performance on imagenet classification. 
+CoRR, abs/1502.01852, 2015.
+[12]  J. Johnson, A. Alahi, and F. Li. Perceptual losses for real-time style transfer and super-resolution. CoRR,abs/1603.08155, 2016.8
+[13]  C. Ledig, L. Theis, F. Huszar, J. Caballero, A. P. Aitken, A. Tejani, J. Totz, Z. Wang, and W. Shi. Photo-realistic single image 
+super-resolution using a generative adversarial network. CoRR, abs/1609.04802, 2016.
+[14]  C. A. S., F. Zhongnan, K. Feliks, W. Jeff, S. K. J., G. E. K., L. J. Hyung, G. G. E., and H. B. A. Super resolution musculoskeletal 
+mri using deep learning. Magnetic Resonance in Medicine, 0(0).
+[15]  S. Schulter, C. Leistner, and  H. Bischof. Fast and accurate image upscaling with super-resolution forests. In 2015 IEEE Conference on
+Computer Vision and Pattern Recognition (CVPR), pages 3791–3799, June 2015.
+[16]  R. Timofte, V. De, and L. V. Gool. Anchored neighborhood regression for fast example-based super-resolution. In 2013 IEEE International
+Conference on Computer Vision, pages 1920–1927, Dec 2013.
+[17]  R. Timofte, R. Rothe, and L. V. Gool. Seven ways to improve example-based single image super resolution. In 2016 IEEE Conference on 
+Computer Vision and Pattern Recognition (CVPR), pages 1865–1873, June 2016.
+[18]  Z. Wang, A. C. Bovik, H. R. Sheikh, and E. P. Simoncelli. Image quality assessment: from error visibility to structural similarity.
+IEEE Transactions on Image Processing, 13(4):600–612, April 2004.
+[19]  J. Yang, J. Wright, T. S. Huang, and Y. Ma. Image super-resolution via sparse representation. IEEE Transactions on Image Processing, 
+19(11):2861–2873, Nov 2010.
+[20]  R. Zeyde, M. Elad, and M. Protter. On single image scale-up using sparse-representations. In J.-D. Boissonnat, P. Chenin, A. Cohen, 
+C. Gout, T. Lyche, M.-L. Mazure, and L. Schumaker, editors, Curves and Surfaces, pages 711–730, Berlin, Heidelberg, 2012. Springer Berlin Heidelbe
